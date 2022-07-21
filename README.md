@@ -1,2 +1,2 @@
 # LSTM-GRU-Conv1D---Temperature-simple-and-multivariate-prediction
-This is repository to help beginners understand how to use LSTM and how to format inputs in the right way. Here we have coded 5 models using LSTMs, CNN and GRU. 
+This is a repository to help beginners understand how to use LSTM and how to format inputs as they can be so confusing. Here we have coded 5 models using LSTMs, CNN and GRU and used different inputs forms to make it clear. At last, we have compared the RMSE values of the models using the testing, validation and training data and concluded the best model among the 5. 
